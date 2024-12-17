@@ -117,6 +117,9 @@ Si deseas contribuir a este proyecto, puedes hacerlo mediante **pull requests** 
 - [@MarianaMera12](https://github.com/MarianaMera12)
 - [@EmmanuelQuintero](https://github.com/EmmanuelQuintero)
 - [@mdlangeles](https://github.com/mdlangeles)
+- [@Sebastian Melo]()
+- [@Ana Sofía Uribe]()
+- [@Juan David Ramírez]()
   
 ¡Gracias por visitar nuestro repositorio! Esperamos que encuentre útil este proyecto. Si ha sido útil o simplemente te gustó, ¡considera darle una estrella al repositorio! 🌟
 
